@@ -108,3 +108,15 @@
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 }
+
+
+.alink {
+ color: #f8f6f5 !important;
+}
+.nav-link.active {
+  background-color: #f5f38a !important;
+}
+.nav-link:hover {
+  background-color: #dbd7d7 !important;
+  color: green  !important;
+}
