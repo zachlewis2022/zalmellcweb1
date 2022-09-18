@@ -11,16 +11,7 @@ export default function Header() {
 
   return (
     <>
-      <header className="p-3 mb-3">
-        <div className="container">
-        <ul className="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-          <div className="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-               <HomeDropDownPublic />   
-          </div>
-    
-        </ul>
-        </div>
-      </header>
+      <HomeDropDownPublic />
     </>
   );
 }
